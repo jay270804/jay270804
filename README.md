@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jaypatel.writes@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lG8d9lwL0yjWgHW4HL3pCBQBwsj_7YakS1Ll7AQDlTo/edit?usp=sharing](https://docs.google.com/document/d/1lG8d9lwL0yjWgHW4HL3pCBQBwsj_7YakS1Ll7AQDlTo/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1lG8d9lwL0yjWgHW4HL3pCBQBwsj_7YakS1Ll7AQDlTo/edit?usp=sharing)
 
 - ⚡ Fun fact **I am poking my nose in all CS fields :)**
 
