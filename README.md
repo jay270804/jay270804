@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay270804&label=Profile%20views&color=0e75b6&style=flat" alt="jay270804" /> </p>
 
-- 🔭 I’m currently working on **Authentication Project**
+- 🔭 I’m currently working on **Sololingo - Language Coach**
 
 - 🌱 I’m currently learning **Express, Authentication and Security, MongoDB, React**
-
-- 👯 I’m currently contributing [check-mark Backend](https://github.com/LJOSC/checkmark-backend)
 
 - 💬 Ask me about **Machine Learning, MERN Stack, Django, Java**
 
