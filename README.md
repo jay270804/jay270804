@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Sololingo - Language Coach**
 
-- 🌱 I’m currently learning **Express, Authentication and Security, MongoDB, React**
+- 🌱 I’m currently learning **Next.js, Drizzle, Typescript, LangChain, FastAPI**
 
-- 💬 Ask me about **Machine Learning, MERN Stack, Django, Java**
+- 💬 Ask me about **ML, MERN Stack, Python, Django**
 
 - 📫 How to reach me **jaypatel.writes@gmail.com**
 
