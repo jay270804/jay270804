@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay270804&label=Profile%20views&color=0e75b6&style=flat" alt="jay270804" /> </p>
 
-- 🔭 I’m currently working on **Sololingo - Language Coach**
+- 🔭 I’m currently working on **Dimscord - make servers, connect via audio/video channels**
 
-- 🌱 I’m currently learning **Next.js, Drizzle, Typescript, LangChain, FastAPI**
+- 🌱 I’m currently learning **Next.js, Prisma, Typescript, socket, Postgres**
 
-- 💬 Ask me about **ML, MERN Stack, Python, Django**
+- 💬 Ask me about **ML, MERN Stack, Python, Django, Next.js**
 
 - 📫 How to reach me **jaypatel.writes@gmail.com**
 
