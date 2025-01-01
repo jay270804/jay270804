@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay270804&label=Profile%20views&color=0e75b6&style=flat" alt="jay270804" /> </p>
 
-- 🔭 I’m currently working on **Multiple Python Oriented Projects**
+- 🔭 I’m currently working on **GenAI Projects**
 
-- 🌱 I’m currently learning **Pydantic, Django, Python, Pytest, Behave**
+- 🌱 I’m currently learning **Python, LLMS, OpenAI api, llama3.2, Qwen2.5, LangChain**
 
-- 💬 Ask me about **Backend, Problem solving and little bit of AI**
+- 💬 Ask me about **Backend, Problem solving and LLMs**
 
 - 📫 How to reach me: **jaypatel.writes@gmail.com**
 
