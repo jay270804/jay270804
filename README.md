@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jaypatel.writes@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1lG8d9lwL0yjWgHW4HL3pCBQBwsj_7YakS1Ll7AQDlTo/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1mkOihyCtt4rt2G_GkWBILZR2Z1Zjt8Kq/view?usp=sharing)
 
 - ⚡ Fun fact **I am way more disciplined than I look XD**
 
