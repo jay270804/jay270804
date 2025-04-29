@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
-<h3 align="center">A tech problem solver from India</h3>
+<h3 align="center">A tech builder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay270804&label=Profile%20views&color=0e75b6&style=flat" alt="jay270804" /> </p>
 
-- 🔭 I’m currently working on **GenAI Projects**
+- 🔭 I’m currently working on **Personal Full Stack Projects**
 
-- 🌱 I’m currently learning **Python, LLMS, OpenAI api, llama3.2, Qwen2.5, LangChain**
+- 🌱 I’m currently learning **TypeScript, Node.js and Next.js**
 
-- 💬 Ask me about **Backend, Problem solving and LLMs**
+- 💬 Ask me about **Backend(soon Frontend), Product Building and AI Integrations**
 
 - 📫 How to reach me: **jaypatel.writes@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1mkOihyCtt4rt2G_GkWBILZR2Z1Zjt8Kq/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1FOwr0GnCz5ev3mC7fCJmgZqfGP7ciL2b/view?usp=sharing)
 
 - ⚡ Fun fact **I am way more disciplined than I look XD**
 
